@@ -63,4 +63,4 @@ The game logic is split across two JavaScript files:
 
 ## 👤 Author
 
-**Dezső László** — [LinkedIn](https://www.linkedin.com/in/lászló-dezső-39a676255/) · [GitHub](https://github.com/dezsolaszlo)
+**Dezső László** — [LinkedIn](https://www.linkedin.com/in/dezsolaszlo/) · [GitHub](https://github.com/dezsolaszlo)
